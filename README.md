@@ -13,11 +13,11 @@ This repository contains a library of my notes on the first half of the content 
 - **Framework:** TensorFlow
   
 ### Course Sections Covered For "TensorFlow"
-- [1 of 5 Auto-welcome message](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/1%20of%2036%20Introduction%20to%20Python%20Data%20Types.pdf)
-- [2 of 5 Course Introduction](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/2%20of%2036%20Python%20Numbers.pdf)
-- [3 of 5 Course Curriculum Overview](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/3%20of%2036%20Coding%20Exercise%201_%20Numbers_%20Simple%20Arithmetic.pdf)
-- [4 of 5 Why Python?](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/4%20of%2036%20Numbers%20-%20FAQ.pdf)
-- [5 of 5 Course FAQs](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/5%20of%2036%20Quiz%201_%20Numbers%20Quiz.pdf)
+- [1 of 5 Auto-welcome message](https://github.com/franpanteli/Python-Bootcamp-Module-1-Python-Bootcamp-Overview/blob/main/Notes%20on%20Videos%20-%20Module%201%20Python%20Bootcamp%20Overview/1%20of%205%20Auto-welcome%20message.pdf)
+- [2 of 5 Course Introduction](https://github.com/franpanteli/Python-Bootcamp-Module-1-Python-Bootcamp-Overview/blob/main/Notes%20on%20Videos%20-%20Module%201%20Python%20Bootcamp%20Overview/2%20of%205%20Course%20Introduction.pdf)
+- [3 of 5 Course Curriculum Overview](https://github.com/franpanteli/Python-Bootcamp-Module-1-Python-Bootcamp-Overview/blob/main/Notes%20on%20Videos%20-%20Module%201%20Python%20Bootcamp%20Overview/3%20of%205%20Course%20Curriculum%20Overview.pdf)
+- [4 of 5 Why Python?](https://github.com/franpanteli/Python-Bootcamp-Module-1-Python-Bootcamp-Overview/blob/main/Notes%20on%20Videos%20-%20Module%201%20Python%20Bootcamp%20Overview/4%20of%205%20Why%20Python%3F.pdf)
+- [5 of 5 Course FAQs](https://github.com/franpanteli/Python-Bootcamp-Module-1-Python-Bootcamp-Overview/blob/main/Notes%20on%20Videos%20-%20Module%201%20Python%20Bootcamp%20Overview/5%20of%205%20Course%20FAQs.pdf)
 
 ### To Clone This Repository
 ```

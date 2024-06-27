@@ -1,4 +1,4 @@
-# Python-Tensorflow-Library
+# Module-1-Python-Bootcamp-Overview
 ### Repository Overview 
 
 This repository contains a library of my notes on the first module of a Python 'bootcamp' I completed, as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository contains a library of my notes from the first module in this course, includeding an overview of and introduction to its content. 
